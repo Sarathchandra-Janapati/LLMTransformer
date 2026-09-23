@@ -1,0 +1,2 @@
+INFO:     127.0.0.1:63232 - "GET /api/attention/example HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60557 - "GET /api/attention/example HTTP/1.1" 200 OK
